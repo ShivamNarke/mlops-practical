@@ -1,6 +1,5 @@
 def greet():
-    return "Hello MLOps"
-
+    return "Welcome to Data Science"
 
 if __name__ == "__main__":
     print(greet())
